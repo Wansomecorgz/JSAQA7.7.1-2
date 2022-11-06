@@ -1,0 +1,15 @@
+[
+    {"number" : 1, 
+        "title": "Логан", 
+        "synopsis": "Россомаха", 
+        "duration": "90 мин. ",
+        "origin": "США"
+    },
+
+    {"number" : 2, 
+        "title": "Фильм 3", 
+        "synopsis": "лучший фильм", 
+        "duration": "110 мин. ", 
+        "origin": "РФ"
+    }
+]

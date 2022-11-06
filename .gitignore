@@ -1,0 +1,12 @@
+Thumbs.db
+.DS_Store
+tmp/
+*_old.*
+*_backup.*
+*.*_old
+*_old
+*_backup
+*.*_backup
+!.vscode
+node_modules/
+package-lock.json
